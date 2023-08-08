@@ -3,11 +3,11 @@
 [![Envie-me um e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elieltonramos14@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elielton-ramos/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elieltonramos08/)
 
 ### Sobre mim:
-"Sou desenvolvedor web e atualmente estou cursando a Trybe, uma escola de tecnologia que abrange front-end e back-end, totalizando mais de 1500 horas de aulas.
+Sou desenvolvedor web e atualmente estou cursando a Trybe, uma escola de tecnologia que abrange front-end e back-end, totalizando mais de 1500 horas de aulas.
 
 Tenho sólidos conhecimentos em JavaScript, TypeScript, React, Jest, React Testing Library, CSS, Design Responsivo, Redux e Hooks.
 
-Busco oportunidade no desenvolvimento web front-end para aplicar minhas habilidades."
+Busco oportunidade no desenvolvimento web front-end para aplicar minhas habilidades.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElieltonRamos&show_icons=true&theme=tokyonight)
 
