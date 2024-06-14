@@ -25,28 +25,31 @@ Atualmente, minha atuação destaca-se no desenvolvimento back-end, onde busco c
 ## Skills 🛠️
 
 Linguagens: 🖥️
-
-<img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img alt="Kotlin" height="40" width="40" src="https://www.hanekedesign.com/wp-content/uploads/2023/05/8-2.png" />
-<img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <div>
+    <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+    <img alt="Kotlin" height="40" width="40" src="https://www.hanekedesign.com/wp-content/uploads/2023/05/8-2.png" />
+    <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <div>
 
 </br>
 
 Frameworks: 🚀
 
-<img alt="Vite" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" />
-<img alt="Express" height="40" width="40" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" />
-<img alt="Android" height="40" width="40" src="https://seeklogo.com/images/A/android-logo-89F9AA29D5-seeklogo.com.png" />
-<img alt="Next" height="40" width="40" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" />
-
+  <div>
+    <img alt="Vite" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" />
+    <img alt="Express" height="40" width="40" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" />
+    <img alt="Android" height="40" width="40" src="https://seeklogo.com/images/A/android-logo-89F9AA29D5-seeklogo.com.png" />
+    <img alt="Next" height="40" width="40" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" />
+  </div>
 <br/>
 
 Banco de Dados: 🗄️
 
-<img alt="MySQL" height="40" width="40" src="https://icons-for-free.com/iff/png/256/development+logo+mysql+icon-1320184807686758112.png"/>
-<img alt="PostgreSQL" height="40" width="40" src="https://icons-for-free.com/iff/png/256/postgresql+original+wordmark-1324760555370607160.png" style="background-color: white;"/>
-
+  <div>
+    <img alt="MySQL" height="40" width="40" src="https://icons-for-free.com/iff/png/256/development+logo+mysql+icon-1320184807686758112.png"/>
+    <img alt="PostgreSQL" height="40" width="40" src="https://icons-for-free.com/iff/png/256/postgresql+original+wordmark-1324760555370607160.png" style="background-color: white;"/>
+  <div>
 <br/>
 
 Ferramentas: 🛠️
