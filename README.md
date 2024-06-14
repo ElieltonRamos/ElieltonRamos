@@ -3,11 +3,11 @@
 [![Envie-me um e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elieltonramos14@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elielton-ramos/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elieltonramos08/)
 
 ### Sobre mim:
-Sou desenvolvedor web e atualmente estou cursando a Trybe, uma escola de tecnologia que abrange front-end e back-end, totalizando mais de 1500 horas de aulas.
+Olá, me chamo Elielton, sou desenvolvedor web full stack, com foco em backend, Minha jornada profissional começou trabalhando como operador de caixa e depois me encontrei na area de desenvolvimento de software, no ano de 2023 dei inicio a minha trasição de carreira com ajuda da trybe, uma escola de desenvolvimento de software focada em front-end e back-end.
 
-Tenho sólidos conhecimentos em JavaScript, TypeScript, React, Jest, React Testing Library, CSS, Design Responsivo, Redux e Hooks.
+Durante minha formação, tive o privilégio de trabalhar como Instrutor no programa Student Summer Job, um modelo similar a um estagio ,onde pude compartilhar conhecimentos relacionados a javascript, typescript, express, docker, mysql, entre outras tecnologias
 
-Busco oportunidade no desenvolvimento web front-end para aplicar minhas habilidades.
+Atualmente, minha atuação destaca-se no desenvolvimento back-end, onde busco constantemente me manter atualizado. Estou aberto a oportunidades no mercado de trabalho, tanto back-end quanto front-end, tambem tenho conhecimentos em desenvolvimento android com kotlin.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElieltonRamos&show_icons=true&theme=tokyonight)
 
